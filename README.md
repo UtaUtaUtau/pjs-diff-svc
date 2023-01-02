@@ -6,7 +6,7 @@
   For more information about the PJS corpus, please visit [this webpage](https://sites.google.com/site/shinnosuketakamichi/research-topics/pjs_corpus?authuser=0). I would like to thank Junya Koguchi and Shinnosuke Takamichi for making this database publicly available.
 
 # Example renders
-  These samples take in my singing as reference audio. Clicking sound is not present in the sample and is an artifact of AAC compression.
+  These samples take in my singing as reference audio. Clicking sound is not present in the raw sample and is an artifact of AAC compression.
 
 https://user-images.githubusercontent.com/29729824/210228080-c3356671-4721-439b-b7c1-445f39a0abcf.mp4
 
