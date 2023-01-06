@@ -11,6 +11,6 @@ Reference audio is a Synthesizer V Pro render with Yuma using Instant Mode tunin
 
 https://user-images.githubusercontent.com/29729824/211056486-17e88ebe-9cb1-4850-8881-11bfc38703cb.mp4
 
-Reference audio is a Synthesizer V Pro render with Solaria using Instant Mode tuning.
+Reference audio is a Synthesizer V Pro render with SOLARIA using Instant Mode tuning.
 
 https://user-images.githubusercontent.com/29729824/211056590-4dad00bc-34aa-4f47-9450-5989eca9048b.mp4
