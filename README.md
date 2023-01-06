@@ -6,9 +6,11 @@
   For more information about the PJS corpus, please visit [this webpage](https://sites.google.com/site/shinnosuketakamichi/research-topics/pjs_corpus?authuser=0). I would like to thank Junya Koguchi and Shinnosuke Takamichi for making this database publicly available.
 
 # Example renders
-  These samples take in my singing as reference audio. Clicking sound is not present in the raw sample and is an artifact of AAC compression.
 
-https://user-images.githubusercontent.com/29729824/210228080-c3356671-4721-439b-b7c1-445f39a0abcf.mp4
+Reference audio is a Synthesizer V Pro render with Yuma using Instant Mode tuning.
 
-https://user-images.githubusercontent.com/29729824/210228089-0449cb5c-ea0f-4e64-b289-6bf9eb11c556.mp4
+https://user-images.githubusercontent.com/29729824/211056486-17e88ebe-9cb1-4850-8881-11bfc38703cb.mp4
 
+Reference audio is a Synthesizer V Pro render with Solaria using Instant Mode tuning.
+
+https://user-images.githubusercontent.com/29729824/211056590-4dad00bc-34aa-4f47-9450-5989eca9048b.mp4
